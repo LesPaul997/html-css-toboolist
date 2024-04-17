@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #f6f8f9;
 }
 
 /*Parte del logo*/
@@ -18,12 +18,14 @@ header {
 }
 /*****/
 
-main div {
+/**** Sezione bottoni */
+#button {
     background-color: white;
     margin-left: 290px;
     margin-right: 290px;
     margin-top: 50px;
     padding: 40px;
+    border-radius: 1% 1% 1% 1%;
 }
 
 
@@ -46,3 +48,33 @@ main div {
     margin-bottom: 50%;
     border-radius: 10%;
 }
+
+/****Sezione Lista*/
+
+ul {
+    margin-top: 15px;
+    list-style-type: none;
+}
+
+.first-list {
+    background-color: white;
+    height: 520px;
+    margin-left: 290px;
+    margin-right: 290px;
+    margin-top: 5px;
+    padding: 40px;
+    border-radius: 1% 1% 1% 1%;
+}
+
+.check {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+    
+}
+
+
