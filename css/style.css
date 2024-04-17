@@ -28,7 +28,7 @@ header {
 
 
 /**** Sezione bottoni */
-#button {
+#main-header {
     background-color: white;
     margin-left: 290px;
     margin-right: 290px;
@@ -37,25 +37,21 @@ header {
     border-radius: 1% 1% 1% 1%;
 }
 
+button{
+    font-size: 13px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
 
-.add-task {
-    height: 25px;
-    width: 75px;
+.add-task-button {
     background-color: #14aaf5;
-    border: 1px solid #14aaf5;
-    margin-bottom: 50%;
-    border-radius: 10%;
-    font-size:large
+    border: none;
 
 }
 
-.add-section {
-    height: 25px;
-    width: 75px;
-    background-color: white;
-    border: 1px solid black;
-    margin-bottom: 50%;
-    border-radius: 10%;
+.add-section-button {
+    background-color: #fff;
+    border: 1px solid gray;
 }
 
 /****Sezione Lista*/
@@ -67,7 +63,7 @@ ul {
 
 .list {
     background-color: white;
-    height: 520px;
+    height: 580px;
     margin-left: 290px;
     margin-right: 290px;
     margin-top: 5px;
