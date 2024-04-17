@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: medium;
 }
 
 body {
@@ -19,6 +19,13 @@ header {
     padding: 10px;
 }
 /*****/
+
+/**DISTANZIAMENTO TITOLI*/
+.second-title {
+    margin-top: 35px;
+    font-size: large;
+}
+
 
 /**** Sezione bottoni */
 #button {
@@ -66,11 +73,6 @@ ul {
     margin-top: 5px;
     padding: 40px;
     border-radius: 1% 1% 1% 1%;
-}
-
-/**DISTANZIAMENTO TITOLI*/
-.second-title {
-    margin-top: 40px;
 }
 
 /**** CHECK  */
@@ -128,4 +130,18 @@ ul {
     padding-right: 8px;
 }
 
+.tag-pink {
+    background-color: #ec4a9d;
+    color: white;
+    border-radius: 30%;
+    padding-left: 8px;
+    padding-right: 8px;
+}
 
+.tag-lightgreen {
+    background-color: #a3d116;
+    color: white;
+    border-radius: 30%;
+    padding-left: 8px;
+    padding-right: 8px;
+}
