@@ -96,50 +96,50 @@ ul {
 .tag-blue {
     background-color: #09a9ed;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
 }
 
 
 .tag-violet {
     background-color: #ab5de6;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
 }
 
 .tag-green {
     background-color: #2cc6ab;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px; 
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px; 
 }
 
 .tag-orange {
     background-color: #ff9b00;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
 }
 
 .tag-pink {
     background-color: #ec4a9d;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
 }
 
 .tag-lightgreen {
     background-color: #a3d116;
     color: white;
-    border-radius: 30%;
-    padding-left: 8px;
-    padding-right: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 10px;
 }
 
 h2:before {
